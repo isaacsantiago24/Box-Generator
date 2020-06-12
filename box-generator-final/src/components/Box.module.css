@@ -1,0 +1,20 @@
+.box {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    color:white
+  }
+  
+  /* . {
+    background: {boxColor};
+  } */
+  
+  .container {
+    width: 450px;
+    justify-content: space-around;
+    display: flex;
+  }
